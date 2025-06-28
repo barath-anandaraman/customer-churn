@@ -7,7 +7,7 @@ To explore and run the analysis:
 
 Clone the repository:
 ``` Bash
-git clone https://github.com/barath-anandaraman/sentiment-analysis.git
+git clone https://github.com/barath-anandaraman/customer-churn.git
 cd sentiment-analysis
 # Install Dependencies: It's recommended to use a virtual environment.
 
@@ -19,5 +19,5 @@ pip install -r requirements.txt
 jupyter lab
 # or
 jupyter notebook
-#From the Jupyter interface, you can then open and run the sentiment-analysis.ipynb files 
+#From the Jupyter interface, you can then open and run the customer-churn.ipynb files 
 # to see the sentiment analysis in action.
