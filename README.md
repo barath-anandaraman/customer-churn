@@ -8,7 +8,7 @@ To explore and run the analysis:
 Clone the repository:
 ``` Bash
 git clone https://github.com/barath-anandaraman/customer-churn.git
-cd sentiment-analysis
+cd customer-churn
 # Install Dependencies: It's recommended to use a virtual environment.
 
 
