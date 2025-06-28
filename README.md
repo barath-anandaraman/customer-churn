@@ -1,20 +1,6 @@
-### Entity-Level Sentiment Analysis 
+### Customer Churn Analysis 
 #### Synopsis: 
-Granular Insights from Textual Data
-This repository contains resources and code related to Entity-Level Sentiment Analysis (ELSA), a powerful technique that moves beyond general sentiment to understand specific opinions.
-
-Traditional sentiment analysis might tell you if a review is positive or negative overall. ELSA, however, identifies distinct entities (e.g., product names, brands, individuals, specific features) within text and determines the sentiment directed specifically at each one.
-
-Why is this crucial?
-
-Without ELSA, businesses often face significant challenges:
-
-Misinterpreting overall sentiment, leading to ineffective strategies.
-Difficulty monitoring brand reputation at a granular level.
-Shallow understanding of customer feedback, hindering product improvements.
-Inaccurate campaign performance tracking.
-Incomplete competitive analysis.
-By providing highly granular and actionable insights, ELSA empowers organizations to make data-driven decisions, refine product development, enhance customer satisfaction, and gain a precise understanding of public perception towards their most critical assets.
+Telecom and Cable companies face multiple challenges in the current market with customer churn. Churn refers to the rate at which customers stop using the services and move to a competitor. Predicting customer churn allows companies to proactively identify customers at risk of leaving, enabling them to implement targeted retention strategies
 
 #### Getting Started
 To explore and run the analysis:
